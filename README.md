@@ -54,27 +54,6 @@
 <img src="355997651.jpg" alt="">	
 <div class="primer"><img src="355997651.jpg" alt=""><img src="355997651.jpg" alt=""></div>
 
-<ul class="bor">
-	<li>Пункт 1</li>
-	<ul>
-		<li>Подпункт</li>
-	</ul>
-	<li>Пункт 2</li>
-	<li>Пункт 3</li>
-	<li>Пункт 4</li>
-	<li>Пункт 5</li>
-	<li>Пункт 6</li>
-	<li>Пункт 7</li>
-</ul>
-
-<ol>
-	<li><a href="block-1">блок 1</a></li>
-	<li><a href="block-2">блок 2</a></li>
-	<li><a href="block-3">блок 3</a></li>
-	<li><a href="block-4">блок 4</a></li>
-	<li>Подрядковый номер</li>
-	<a href="htmlnew.html">Ссылка на вторую страницу</a>
-</ol>
 
 </body>
 </html>
